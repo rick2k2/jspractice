@@ -1,0 +1,12 @@
+Introduction and variables
+Type Conversion and string methods
+if else ,switch-case & for,do-while,while loops
+Arrays and Object methods
+js functions and scope
+Dom Manipulation
+Advance Array methods callback,map,filter,reduce and some important array loops
+JS Project 1 (random para generator using words,color chnager,add tag);
+Event listeners
+Math & Date Object
+Localstorage and session Storage 
+JS Project 2 (To-do-List,)
